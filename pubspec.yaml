@@ -1,0 +1,6 @@
+name: dastak_mobile
+version: 1.0.0
+flutter:
+  assets:
+    - assets/images/
+    - assets/data/

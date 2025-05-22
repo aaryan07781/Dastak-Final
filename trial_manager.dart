@@ -1,0 +1,1 @@
+// Logic for 5-day trial and developer mode activation
