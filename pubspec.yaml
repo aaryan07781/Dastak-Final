@@ -20,3 +20,4 @@ flutter:
   assets:
     - assets/images/
     - assets/data/
+flutter build apk --release -t lib/main.dart
